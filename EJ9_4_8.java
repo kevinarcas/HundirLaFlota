@@ -5,7 +5,5 @@ public class EJ9_4_8 {
     public static void main(String[] args) {
 
 
-
-s
     }
 }
